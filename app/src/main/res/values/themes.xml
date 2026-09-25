@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EventManager" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+
+        <!-- System bars -->
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+
+        <!-- Status/navigation bar icon appearance -->
+        <item name="android:windowLightStatusBar">false</item>
+
+        <item name="android:windowActionModeOverlay">true</item>
+
+    </style>
+
+    <style name="ShapeAppearanceOverlay.EventManager.Fab"
+        parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>
