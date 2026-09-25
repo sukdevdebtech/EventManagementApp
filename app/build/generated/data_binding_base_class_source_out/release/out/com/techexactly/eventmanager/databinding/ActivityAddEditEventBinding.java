@@ -10,6 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.appbar.AppBarLayout;
 import com.google.android.material.appbar.MaterialToolbar;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
@@ -22,6 +23,9 @@ import java.lang.String;
 public final class ActivityAddEditEventBinding implements ViewBinding {
   @NonNull
   private final LinearLayout rootView;
+
+  @NonNull
+  public final AppBarLayout appBar;
 
   @NonNull
   public final MaterialButton btnSave;
@@ -56,7 +60,7 @@ public final class ActivityAddEditEventBinding implements ViewBinding {
   @NonNull
   public final MaterialToolbar toolbar;
 
-  private ActivityAddEditEventBinding(@NonNull LinearLayout rootView,
+  private ActivityAddEditEventBinding(@NonNull LinearLayout rootView, @NonNull AppBarLayout appBar,
       @NonNull MaterialButton btnSave, @NonNull TextInputEditText etDateTime,
       @NonNull TextInputEditText etDescription, @NonNull TextInputEditText etLocation,
       @NonNull TextInputEditText etTitle, @NonNull ProgressBar progress,
@@ -64,6 +68,7 @@ public final class ActivityAddEditEventBinding implements ViewBinding {
       @NonNull TextInputLayout tilLocation, @NonNull TextInputLayout tilTitle,
       @NonNull MaterialToolbar toolbar) {
     this.rootView = rootView;
+    this.appBar = appBar;
     this.btnSave = btnSave;
     this.etDateTime = etDateTime;
     this.etDescription = etDescription;
@@ -104,6 +109,12 @@ public final class ActivityAddEditEventBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.app_bar;
+      AppBarLayout appBar = ViewBindings.findChildViewById(rootView, id);
+      if (appBar == null) {
+        break missingId;
+      }
+
       id = R.id.btn_save;
       MaterialButton btnSave = ViewBindings.findChildViewById(rootView, id);
       if (btnSave == null) {
@@ -170,7 +181,7 @@ public final class ActivityAddEditEventBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityAddEditEventBinding((LinearLayout) rootView, btnSave, etDateTime,
+      return new ActivityAddEditEventBinding((LinearLayout) rootView, appBar, btnSave, etDateTime,
           etDescription, etLocation, etTitle, progress, tilDateTime, tilDescription, tilLocation,
           tilTitle, toolbar);
     }

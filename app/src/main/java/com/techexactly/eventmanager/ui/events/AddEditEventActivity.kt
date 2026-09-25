@@ -4,6 +4,9 @@ import android.os.Bundle
 import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowCompat
+import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
@@ -27,10 +30,33 @@ class AddEditEventActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityAddEditEventBinding.inflate(layoutInflater)
+        WindowCompat.getInsetsController(
+            window,
+            window.decorView
+        ).apply {
+            isAppearanceLightStatusBars = false
+            isAppearanceLightNavigationBars = false
+        }
         setContentView(binding.root)
 
         val eventId = intent.getStringExtra(EXTRA_EVENT_ID)
         setSupportActionBar(binding.toolbar)
+        val appBar = findViewById<View>(R.id.app_bar)
+
+        ViewCompat.setOnApplyWindowInsetsListener(appBar) { view, insets ->
+
+            val statusBarInsets =
+                insets.getInsets(WindowInsetsCompat.Type.statusBars())
+
+            view.setPadding(
+                view.paddingLeft,
+                statusBarInsets.top,
+                view.paddingRight,
+                view.paddingBottom
+            )
+
+            insets
+        }
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.setTitle(if (eventId == null) R.string.add_event else R.string.edit_event)
 

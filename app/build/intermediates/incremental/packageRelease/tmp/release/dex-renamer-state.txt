@@ -1,4 +1,4 @@
-#Fri Sep 25 12:50:23 IST 2026
+#Fri Sep 25 13:06:40 IST 2026
 base.0=/Users/sukdevadhikary/Documents/GitHub/EventManagementApp/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
 base.1=/Users/sukdevadhikary/Documents/GitHub/EventManagementApp/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
 base.2=/Users/sukdevadhikary/Documents/GitHub/EventManagementApp/app/build/intermediates/dex/release/mergeDexRelease/classes3.dex

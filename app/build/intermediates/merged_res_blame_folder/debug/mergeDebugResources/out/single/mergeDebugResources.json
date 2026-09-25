@@ -28,10 +28,6 @@
         "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-59:/layout/activity_register.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-debug-57:/layout_fragment_event_list.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-59:/layout/fragment_event_list.xml"
-    },
-    {
         "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-debug-57:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
         "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-59:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
@@ -46,6 +42,10 @@
     {
         "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-debug-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.techexactly.eventmanager.app-debug-57:/layout_activity_add_edit_event.xml.flat",
+        "source": "com.techexactly.eventmanager.app-main-59:/layout/activity_add_edit_event.xml"
     },
     {
         "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-debug-57:/drawable_ic_dashboard.xml.flat",

@@ -1,146 +1,150 @@
 [
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_horizental_logo.png.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/horizental_logo.png"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_activity_main.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/activity_main.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_ic_list.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/ic_list.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_ic_list.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/ic_list.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_show_password_selector.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/show_password_selector.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_activity_register.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/activity_register.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/layout_activity_main.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/layout/activity_main.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_ic_notification.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/ic_notification.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_ic_visibility_off.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/ic_visibility_off.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_activity_forgot_password.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/activity_forgot_password.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_horizental_logo1.png.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/horizental_logo1.png"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_ic_visibility_off.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/ic_visibility_off.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_ic_dashboard.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/ic_dashboard.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_activity_login.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/activity_login.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/layout_item_event.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/layout/item_event.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_fragment_event_list.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/fragment_event_list.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/layout_activity_forgot_password.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/layout/activity_forgot_password.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/menu_main_menu.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/menu/main_menu.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_ic_add.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/ic_add.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/navigation_nav_graph.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/navigation/nav_graph.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_horizental_logo1.png.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/horizental_logo1.png"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_ic_notification.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/ic_notification.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/menu_bottom_nav_menu.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/menu/bottom_nav_menu.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/layout_activity_login.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/layout/activity_login.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/layout_activity_register.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/layout/activity_register.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_ic_dashboard.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/ic_dashboard.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_fragment_dashboard.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/fragment_dashboard.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_show_password_selector.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/show_password_selector.xml"
+    },
+    {
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_ic_visibility.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/ic_visibility.xml"
     },
     {
         "merged": "com.techexactly.eventmanager.app-release-57:/layout_activity_add_edit_event.xml.flat",
         "source": "com.techexactly.eventmanager.app-main-58:/layout/activity_add_edit_event.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/navigation_nav_graph.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/navigation/nav_graph.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/drawable_horizental_logo.png.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/drawable/horizental_logo.png"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_activity_add_edit_event.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/activity_add_edit_event.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_ic_add.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/ic_add.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/layout_item_event.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/layout/item_event.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/menu_main_menu.xml.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/menu/main_menu.xml"
     },
     {
-        "merged": "com.techexactly.eventmanager.app-release-57:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/mipmap-xhdpi/ic_launcher_foreground.webp"
-    },
-    {
-        "merged": "com.techexactly.eventmanager.app-release-57:/drawable_ic_visibility.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/drawable/ic_visibility.xml"
-    },
-    {
-        "merged": "com.techexactly.eventmanager.app-release-57:/layout_fragment_event_list.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/layout/fragment_event_list.xml"
-    },
-    {
-        "merged": "com.techexactly.eventmanager.app-release-57:/layout_fragment_dashboard.xml.flat",
-        "source": "com.techexactly.eventmanager.app-main-58:/layout/fragment_dashboard.xml"
+        "merged": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-release-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sukdevadhikary/.gradle/daemon/8.7/com.techexactly.eventmanager.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
     }
 ]
